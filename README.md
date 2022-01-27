@@ -9,7 +9,7 @@ pip install -r requirements.txt
 pytest -k test_add_items 
 ```
 
-![Test Result](./Test_Result.png)
+![Test Result](result.png)
 
 
 Testcases can be executed in docker image also. 
