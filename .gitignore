@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.cache/
+.wheelhouses/
+.tox/
+.vscode/
+/result.xml
+/chromedriver/*
+.idea
+.assets

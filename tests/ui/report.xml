@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><testsuite errors="0" failures="0" name="pytest" skipped="0" tests="1" time="24.434"><testcase classname="tests.ui.test_search.TestBooking" file="tests/ui/test_search.py" line="5" name="test_tb001_test_search_page" time="24.408"></testcase></testsuite>

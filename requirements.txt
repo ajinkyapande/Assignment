@@ -1,0 +1,7 @@
+pytest
+selenium
+allure-pytest
+pyyaml
+pytest-html
+requests
+pytest-bdd
