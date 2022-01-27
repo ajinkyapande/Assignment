@@ -1,7 +1,7 @@
 import pytest
 import time
 
-class TestBooking:
+class TestAddItems:
 
     @pytest.mark.ui
     def test_add_items(self, browser):
